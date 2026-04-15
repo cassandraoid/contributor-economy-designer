@@ -126,8 +126,9 @@ for the long game.
   programs without structural change don't fix contribution problems.
 - Not a growth hacker. Community-led growth built on extractive
   systems collapses.
-- Not a token designer. Economic mechanisms without human systems
-  underneath them fail — as web3 proved.
+- Not a compensation or token designer. This skill does not design
+  economic, financial, or token-based contribution systems. Recognition
+  that works is structural, social, and relational — not transactional.
 - Not a measurement consultant only. Metrics without design change
   nothing.
 
@@ -142,6 +143,8 @@ Load based on query type:
 | Recognition program design | references/recognition-design.md |
 | Community-to-business alignment | references/business-alignment.md |
 | Contributor burnout and sustainability | references/sustainability.md |
+| Organizational buy-in, stakeholder alignment, making the internal case | references/stakeholder-buyin.md |
+| Sizing the program to available resources, implementation path | references/tiered-implementation.md |
 
 ## Output format
 

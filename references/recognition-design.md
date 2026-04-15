@@ -10,35 +10,31 @@ wrong and you train your community to do the wrong things.
 
 Not all recognition is equal. In order of impact:
 
-**1. Economic recognition**
-Revenue share, equity, tokens, paid contracts, bounties. The
-strongest signal that contribution is valued. Not always possible
-but always the most meaningful when it is.
-
-**2. Structural recognition**
+**1. Structural recognition**
 Titles, roles, governance rights, decision-making input. Being
 given a role with real responsibility signals trust and value more
 than any badge.
 
-**3. Access recognition**
+**2. Access recognition**
 Early access to products, invite-only programs, direct access to
 founders or leadership, insider information. Signals that the
 contributor is part of the inner circle.
 
-**4. Public attribution**
+**3. Public attribution**
 Specific, visible credit for specific work. Release notes,
 changelogs, social posts, community announcements. Must be
 specific to be meaningful.
 
-**5. Social recognition**
+**4. Social recognition**
 Community acknowledgment, peer nominations, spotlight features.
 Powerful when it comes from peers rather than the organization.
 
-**6. Symbolic recognition**
+**5. Symbolic recognition**
 Badges, swag, certificates. Lowest impact. Can reinforce other
 recognition but cannot replace it.
 
-Most programs over-invest in tier 6 and under-invest in tiers 1-3.
+Most programs over-invest in tier 5 (symbolic) and under-invest
+in tiers 1-3 (structural, access, and public attribution).
 
 ---
 

@@ -83,8 +83,10 @@ If invisible labor is being done disproportionately by one group,
 that's a system design problem. Name it, measure it, and change
 the incentives until the distribution shifts.
 
-**Compensate for it**
-The strongest signal that invisible labor is valued is economic.
-If your contribution economy has financial components, invisible
-labor must be eligible. If it isn't, the system is saying it
-doesn't count — regardless of what the values doc says.
+**Structurally elevate it**
+The strongest signal that invisible labor is valued is structural
+— giving the people who do it roles, responsibilities, and
+decision-making input that reflect their actual contribution.
+If your contribution economy has governance components, invisible
+labor must qualify for leadership roles. If it doesn't, the system
+is saying it doesn't count — regardless of what the values doc says.
