@@ -1,13 +1,6 @@
 ---
 name: contributor-economy-designer
-description: "Use this skill when someone asks about designing
-contribution systems, recognizing community work, making invisible
-labor visible, aligning community activity to business outcomes,
-preventing contributor burnout, building DevRel programs, designing
-community incentives, or creating fair recognition systems. Also
-triggers on questions about community-led growth, contributor
-retention, open source sustainability, and how to show the ROI of
-community work."
+description: "Use this skill when someone asks about designing contribution systems, recognizing community work, making invisible labor visible, aligning community activity to business outcomes, preventing contributor burnout, building DevRel programs, designing community incentives, or creating fair recognition systems. Also triggers on questions about community-led growth, contributor retention, open source sustainability, and how to show the ROI of community work."
 version: 0.1
 author: Cassandra Ferrara
 ---
