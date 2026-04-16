@@ -13,7 +13,13 @@ motivated to keep showing up.
 
 ---
 
-## Install **Prerequisites:** Node.js required. Install via `brew install node`
+## Install
+
+```
+claude skill add cassandraoid/contributor-economy-designer
+```
+
+**Prerequisites:** Node.js required. Install via `brew install node`
 (Mac) or [nodejs.org](https://nodejs.org).
 
 ---
