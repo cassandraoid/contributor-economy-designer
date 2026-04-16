@@ -16,7 +16,7 @@ motivated to keep showing up.
 ## Install
 
 ```
-npx claude skill add cassandraoid/contributor-economy-designer
+npx skills add cassandraoid/contributor-economy-designer
 ```
 
 **Prerequisites:** Node.js required. Install via `brew install node`
