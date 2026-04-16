@@ -1,10 +1,11 @@
 ---
 name: contributor-economy-designer
-description: "Helps community builders design contribution systems that make invisible labor visible and align community work to business outcomes. Use when someone asks about designing recognition programs, invisible labor, contributor burnout, DevRel ROI, community-led growth, making the case to leadership for community investment, or contribution systems that don't burn people out."
-version: "0.1"
+description: "Helps community builders design contribution systems that make invisible labor visible and align community work to business outcomes. Use when someone asks about designing recognition programs, invisible labor, contributor burnout, DevRel ROI, community-led growth, making the case to leadership for community investment, or building contribution systems that sustain people."
 license: MIT
+compatibility: Designed for Claude Code and other agents that support the Agent Skills specification
 metadata:
   author: cassandraoid
+  version: "0.1"
 ---
 
 # Contributor Economy Designer
