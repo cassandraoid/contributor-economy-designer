@@ -15,6 +15,27 @@ motivated to keep showing up.
 
 ## Install
 
+**Claude Code**
+```
+npx skills add cassandraoid/contributor-economy-designer -a claude-code
+```
+
+**Codex CLI**
+```
+npx skills add cassandraoid/contributor-economy-designer -a codex
+```
+
+**Cursor**
+```
+npx skills add cassandraoid/contributor-economy-designer -a cursor
+```
+
+**GitHub Copilot**
+```
+npx skills add cassandraoid/contributor-economy-designer -a copilot
+```
+
+**All agents (auto-detect)**
 ```
 npx skills add cassandraoid/contributor-economy-designer
 ```
